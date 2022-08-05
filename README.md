@@ -1,1 +1,1 @@
-Task for job interview
+Frontend for popstar webapp

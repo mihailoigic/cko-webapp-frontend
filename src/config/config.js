@@ -1,6 +1,6 @@
 const Config = {
     api: {
-        github: process.env.REACT_APP_BACKEND_API || "",
+        baseUrl: process.env.REACT_APP_BACKEND_API || "",
     }
 };
 

@@ -3,6 +3,7 @@ import './scss/index.scss';
 const Home = () => {
     return(
         <>
+        HOME PAGE
         </>
     );
 };
